@@ -5,7 +5,7 @@ Thank you for the opportunity to work on this assignment. Below you will find al
 ## Deliverables
 
 - **Source Code**: [GitHub Repository](https://github.com/aafaque2/ajaia-assessment)
-- **Deployment URL**: [Live Application URL] *(Please replace with actual link if deployed)*
+- **Deployment URL**: [Live Application URL](https://ajaia-assessment-og.vercel.app/)
 - **Walkthrough Video**: [YouTube Walkthrough](https://youtu.be/bu80Ng2Eb8s)
 
 *Documentation Files:*
